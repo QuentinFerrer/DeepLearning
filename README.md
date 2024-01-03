@@ -31,3 +31,12 @@ Différents algos de deep learning implémentés.
 - Beam search
 - modèle d'attention
 - Transformers
+
+## Dataset 
+
+### Classification d'images 
+
+https://www.kaggle.com/datasets/ibrahimserouis99/one-piece-image-classifier
+utile pour : ConvNet et Siamois. Peut etre aussi pour transfert de style
+
+
