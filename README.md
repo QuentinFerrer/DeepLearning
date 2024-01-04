@@ -36,6 +36,7 @@ Différents algos de deep learning implémentés.
 
 ### Classification d'images 
 
+**One Piece personnage :**
 https://www.kaggle.com/datasets/ibrahimserouis99/one-piece-image-classifier
 utile pour : ConvNet et Siamois. Peut etre aussi pour transfert de style
 
