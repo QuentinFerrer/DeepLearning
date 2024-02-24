@@ -3,6 +3,11 @@ Différents algos de deep learning implémentés.
 
 
 ## TODO 
+### CICD
+
+- Cicd sur les fichiers .py (isort/black etc)
+- afficher la note des fichiers dans readme
+- affiche coverage dans readme
 
 ### Réseau de neurones convolutifs
 
